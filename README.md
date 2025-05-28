@@ -100,7 +100,7 @@
 # 📈 My Development Rhythm
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Squizyiinxx&theme=dark&hide_border=true&background=18181B&date_format=M%20j%5B%2C%20Y%5D&ring=5EEAD4&currstreak_bg=18181B&fire=5EEAD4&side_main=5EEAD4&side_text=FFFFFF&stroke=5EEAD4" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Squizyiinxx&theme=dark&hide_border=true&background=18181B&date_format=M%20j%5B%2C%20Y%5D&ring=5EEAD4&currstreak_bg=18181B&fire=5EEAD4&side_main=5EEAD4&side_text=FFFFFF&stroke=5EEAD4" alt="GitHub Streak" />
 </p>
 
 ---
