@@ -53,6 +53,9 @@
 ### [Web Landing CMS AMIK SSR](https://github.com/Squizyiinxx/web-amik)
 > A responsive web landing page and CMS built for AMIK SSR, demonstrating modern UI/UX principles and robust content management features.
 <p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Project+Screenshot+Here" alt="Web AMIK SSR Screenshot" style="max-width: 100%; border-radius: 8px;">
+</p>
+<p align="center">
   <a href="https://github.com/Squizyiinxx/web-amik" target="_blank"><img src="https://img.shields.io/badge/Repo-View%20Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View Code"></a>
   <img src="https://img.shields.io/github/stars/Squizyiinxx/web-amik?style=social" alt="GitHub Stars">
   <img src="https://img.shields.io/github/forks/Squizyiinxx/web-amik?style=social" alt="GitHub Forks">
@@ -68,13 +71,16 @@
 ### [ProManage](https://github.com/Squizyiinxx/ProManage)
 > A fullstack project management application to streamline team collaboration, task tracking, and project oversight with a clean interface.
 <p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Project+Screenshot+Here" alt="ProManage Screenshot" style="max-width: 100%; border-radius: 8px;">
+</p>
+<p align="center">
   <a href="https://github.com/Squizyiinxx/ProManage" target="_blank"><img src="https://img.shields.io/badge/Repo-View%20Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View Code"></a>
   <img src="https://img.shields.io/github/stars/Squizyiinxx/ProManage?style=social" alt="GitHub Stars">
   <img src="https://img.shields.io/github/forks/Squizyiinxx/ProManage?style=social" alt="GitHub Forks">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.io/badge/Express.js-18181B?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Express.js-18181B?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
@@ -82,6 +88,9 @@
 
 ### [Personal Portfolio](https://github.com/Squizyiinxx/portfolio)
 > My personal portfolio website, showcasing my projects, skills, and design philosophy through a modern, interactive user experience.
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Project+Screenshot+Here" alt="Portfolio Screenshot" style="max-width: 100%; border-radius: 8px;">
+</p>
 <p align="center">
   <a href="https://github.com/Squizyiinxx/portfolio" target="_blank"><img src="https://img.shields.io/badge/Repo-View%20Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View Code"></a>
   <a href="https://squizyiinxx.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-5EEAD4?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"></a>
@@ -100,7 +109,7 @@
 # 📈 My Development Rhythm
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Squizyiinxx&theme=dark&hide_border=true&background=18181B&date_format=M%20j%5B%2C%20Y%5D&ring=5EEAD4&currstreak_bg=18181B&fire=5EEAD4&side_main=5EEAD4&side_text=FFFFFF&stroke=5EEAD4" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Squizyiinxx&theme=dracula&hide_border=true&border_radius=5&count_private=true&background=18181B&ring=5EEAD4&fire=5EEAD4&side_main=5EEAD4&side_text=FFFFFF&stroke=5EEAD4" alt="GitHub Streak" />
 </p>
 
 ---
