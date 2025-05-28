@@ -89,9 +89,6 @@
 ### [Personal Portfolio](https://github.com/Squizyiinxx/portfolio)
 > My personal portfolio website, showcasing my projects, skills, and design philosophy through a modern, interactive user experience.
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Project+Screenshot+Here" alt="Portfolio Screenshot" style="max-width: 100%; border-radius: 8px;">
-</p>
-<p align="center">
   <a href="https://github.com/Squizyiinxx/portfolio" target="_blank"><img src="https://img.shields.io/badge/Repo-View%20Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View Code"></a>
   <a href="https://squizyiinxx.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-5EEAD4?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"></a>
   <img src="https://img.shields.io/github/stars/Squizyiinxx/portfolio?style=social" alt="GitHub Stars">
