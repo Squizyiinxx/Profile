@@ -108,9 +108,7 @@
 
 # 📈 My Development Rhythm
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Squizyiinxx&theme=dracula&hide_border=true&border_radius=5&count_private=true&background=18181B&ring=5EEAD4&fire=5EEAD4&side_main=5EEAD4&side_text=FFFFFF&stroke=5EEAD4" alt="GitHub Streak" />
-</p>
+<a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=elegant&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=135%2C0D1117%2C39D3BB&sideLabels=39D3BB&ring=39D3BB&currStreakLabel=39D3BB&excludeDaysLabel=39D3BB&dates=BDBCD3" alt="GitHub Streak" /></a>
 
 ---
 
