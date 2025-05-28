@@ -74,7 +74,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-18181B?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.io/badge/Express.js-18181B?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
@@ -97,11 +97,10 @@
 
 ---
 
-# 📈 My GitHub Activity
+# 📈 My Development Rhythm
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Squizyiinxx&show_icons=true&theme=transparent&hide_title=true&hide_border=true&bg_color=18181B&count_private=true&text_color=FFFFFF&icon_color=5EEAD4" alt="Squizyiinxx's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Squizyiinxx&layout=compact&theme=transparent&hide_border=true&bg_color=18181B&text_color=FFFFFF&icon_color=5EEAD4" alt="Squizyiinxx's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Squizyiinxx&theme=dark&hide_border=true&background=18181B&date_format=M%20j%5B%2C%20Y%5D&ring=5EEAD4&currstreak_bg=18181B&fire=5EEAD4&side_main=5EEAD4&side_text=FFFFFF&stroke=5EEAD4" alt="GitHub Streak" />
 </p>
 
 ---
@@ -110,7 +109,7 @@
 
 <p align="center">
   <a href="https://squizyiinxx.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-5EEAD4?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-  <a href="mailto:wowmr51@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-18181B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:squizyiinxx@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-18181B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jul21/" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <p align="center"><b>I'm enthusiastic about new opportunities. Feel free to reach out for freelance work, remote positions, or any collaborative ventures!</b></p>
