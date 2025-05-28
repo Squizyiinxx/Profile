@@ -53,9 +53,6 @@
 ### [Web Landing CMS AMIK SSR](https://github.com/Squizyiinxx/web-amik)
 > A responsive web landing page and CMS built for AMIK SSR, demonstrating modern UI/UX principles and robust content management features.
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Project+Screenshot+Here" alt="Web AMIK SSR Screenshot" style="max-width: 100%; border-radius: 8px;">
-</p>
-<p align="center">
   <a href="https://github.com/Squizyiinxx/web-amik" target="_blank"><img src="https://img.shields.io/badge/Repo-View%20Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View Code"></a>
   <img src="https://img.shields.io/github/stars/Squizyiinxx/web-amik?style=social" alt="GitHub Stars">
   <img src="https://img.shields.io/github/forks/Squizyiinxx/web-amik?style=social" alt="GitHub Forks">
@@ -70,9 +67,6 @@
 
 ### [ProManage](https://github.com/Squizyiinxx/ProManage)
 > A fullstack project management application to streamline team collaboration, task tracking, and project oversight with a clean interface.
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Project+Screenshot+Here" alt="ProManage Screenshot" style="max-width: 100%; border-radius: 8px;">
-</p>
 <p align="center">
   <a href="https://github.com/Squizyiinxx/ProManage" target="_blank"><img src="https://img.shields.io/badge/Repo-View%20Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View Code"></a>
   <img src="https://img.shields.io/github/stars/Squizyiinxx/ProManage?style=social" alt="GitHub Stars">
